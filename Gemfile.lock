@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     spree_sale_pricing (0.2.0)
-      spree_core (~> 2.0.0)
+      spree_core (>= 2.0.0)
 
 GEM
   remote: http://rubygems.org/
@@ -169,7 +169,7 @@ GEM
       multi_json (~> 1.0)
       rubyzip
       websocket (~> 1.0.4)
-    spree_core (2.0.0)
+    spree_core (>= 2.0.0)
       activemerchant (~> 1.31)
       acts_as_list (= 0.2.0)
       awesome_nested_set (= 2.1.5)
